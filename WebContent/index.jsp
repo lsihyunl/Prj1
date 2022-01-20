@@ -8,7 +8,11 @@
 </head>
 <body>
 <h3>index.jsp(crystal)</h3>
+<<<<<<< HEAD
 <a href="baseballboard/baseballlist.do">전체경기일정보러가기</a>
+=======
+<a href="baseballboard/baseballlist.do">야구경기일정보러가기</a>
+>>>>>>> second2
 
 
 

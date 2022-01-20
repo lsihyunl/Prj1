@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<h3>second2</h3>
 <script>
 	function logoutProc(){
 		location.href="login/logoutProc.jsp"; // function에서 사용하는 sendredirect (location은 주소)
