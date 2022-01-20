@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>index.jsp(신수정)</h3>
+<h3>index.jsp(crystal)</h3>
 <a href="baseballboard/baseballlist.do">경기일정보러가기</a>
 
 
